@@ -9,3 +9,5 @@ This is an official code for ICRA 2024 paper "RoboKeyGen: Robot Pose and Joint A
 - [ ] Training Code Release
 - [ ] Inference Code Release
 
+# Dataset Release
+We have created a huge synthetic dataset SimRGBD-Franka (~hundreds of GB). 
