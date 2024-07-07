@@ -3,4 +3,9 @@ This is an official code for ICRA 2024 paper "RoboKeyGen: Robot Pose and Joint A
 
 [\[PDF\]](https://arxiv.org/pdf/2403.18259) [\[Video\]](https://www.youtube.com/watch?v=oD1pSinGJqM) [\[Webpage\]](https://nimolty.github.io/Robokeygen/)
 
+# Code Release Schedule
+- [ ] Installation
+- [ ] Dataset Release and Pretrained Model Release
+- [ ] Training Code Release
+- [ ] Inference Code Release
 
