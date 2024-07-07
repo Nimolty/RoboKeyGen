@@ -10,4 +10,6 @@ This is an official code for ICRA 2024 paper "RoboKeyGen: Robot Pose and Joint A
 - [ ] Inference Code Release
 
 # Dataset Release
-We have created a huge synthetic training dataset SimRGBD-Franka (~hundreds of GB). For downloading conveniently, we divide the whole dataset into six parts: color.zip, mask.zip, ir.zip, depth_60.zip, simDepthImage.zip, and meta.zip. We could download the dataset from the webpage [website](https://mirrors.pku.edu.cn/dl-release/SGTAPose_CVPR2023) 
+We have created a huge synthetic training dataset SimRGBD-Franka (~hundreds of GB). For downloading conveniently, we divide the whole dataset into six parts: color.zip, mask.zip, ir.zip, depth_60.zip, simDepthImage.zip, and meta.zip. We could download the dataset from the webpage [website](https://mirrors.pku.edu.cn/dl-release/SGTAPose_CVPR2023) You can download any kind of data as you want.
+
+To download the real-world testing dataset, RealSense-Franka and AzureKinect-Franka. We can download the file *Real_Test_0613.tar.gz*
