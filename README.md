@@ -5,7 +5,7 @@ This is an official code for ICRA 2024 paper "RoboKeyGen: Robot Pose and Joint A
 
 # Code Release Schedule
 - [ ] Installation
-- [ ] Dataset Release and Pretrained Model Release
+- [x] Dataset Release and Pretrained Model Release
 - [ ] Training Code Release
 - [ ] Inference Code Release
 
